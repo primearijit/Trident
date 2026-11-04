@@ -13,14 +13,14 @@
     </a>
   </p>
   <p>
-    <a href="https://ko-fi.com/cosmictaser">
+    <a href="https://ko-fi.com/primearijit">
       <img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Trident on Ko-fi">
     </a>
-    <a href="upi://pay?pa=primearijit%40axl&pn=CosmicTaser&cu=INR">
+    <a href="upi://pay?pa=primearijit%40axl&pn=Trident&cu=INR">
       <img src="https://img.shields.io/badge/Donate-UPI-6B4EFF?style=for-the-badge" alt="Donate via UPI">
     </a>
   </p>
-  <p><strong>UPI ID:</strong> <code>cosmictaser@okicici</code><br><strong>UPI payment link:</strong> <code>upi://pay?pa=cosmictaser%40okicici&amp;pn=CosmicTaser&amp;cu=INR</code></p>
+  <p><strong>UPI ID:</strong> <code>primearijit@axl</code><br>
   <p>
     <a href=".github/CONTRIBUTING.md">Contributing</a> ·
     <a href="https://discord.gg/Ejeb4cmzfd">Community</a>
@@ -32,27 +32,13 @@
 </div>
 
 > [!WARNING]
-> **The current Stable release is outdated and not working.** Use [Release 2.0.5](https://github.com/primearijit/Tridentmusic/releases/tag/v2.0.5) from GitHub while the remaining issues are fixed. A refreshed Stable release will be published soon after they are fixed.
->
+
 > The project website is being reworked, so download from GitHub Releases for now.
 
 Trident brings music discovery, playback, lyrics, and your library together in one Android app. It is built with Kotlin, Jetpack Compose, and Media3, with custom Cupertino-style controls and Liquid Glass surfaces.
 
-<div align="center">
-  <a href="https://github.com/cosmictaserdev-creator/Convx">
-    <img src="https://img.shields.io/badge/⚡%20SPECIAL%20CREDIT%20-%20Powered%20by%20Convx%20-%206C63FF?style=for-the-badge&logo=github&logoColor=white&scale=2" alt="Convx Credit Banner">
-  </a>
-  <p><i>Special thanks to <a href="https://github.com/cosmictaserdev-creator/Convx">Convx</a> for architectural components and inspiration!</i></p>
-</div>
 
 <hr>
-
-<div align="center">
-
-  <h2>🙏 Credits</h2>
-
-  <p>Trident music is forked from BeatWave which is developed and maintained by <a href="https://github.com/cosmictaserdev-creator/Convx">cosmictaser</a>. See <a href="https://github.com/cosmictaserdev-creator/">Github</a> for the portfolio.</p>
-
 
 ## Features
 
@@ -110,6 +96,23 @@ Trident is a Gradle multi-module Android project. Keep code in the module that o
 | `listen-together-server/` | Server component for Listen Together. |
 
 The Android app uses Jetpack Compose for UI, Media3 for playback, Room for the local library, and DataStore for preferences. App modules are wired through the existing Hilt setup.
+
+<hr>
+
+<div align="center">
+
+  <h2>🙏 Credits</h2>
+
+  <div align="center">
+  <a href="https://github.com/cosmictaserdev-creator/Convx">
+    <img src="https://img.shields.io/badge/⚡%20SPECIAL%20CREDIT%20-%20Powered%20by%20Convx%20-%206C63FF?style=for-the-badge&logo=github&logoColor=white&scale=2" alt="Convx Credit Banner">
+  </a>
+  <p><i>Special thanks to <a href="https://github.com/cosmictaserdev-creator/Convx">Convx</a> for architectural components and inspiration!</i></p>
+</div>
+
+  <p>Trident music is forked from BeatWave which is developed and maintained by <a href="https://github.com/cosmictaserdev-creator/Convx">cosmictaser</a>. See <a href="https://github.com/cosmictaserdev-creator/">Github</a> for the portfolio.</p>
+<hr>
+
 
 ## Build locally
 
