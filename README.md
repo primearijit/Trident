@@ -3,8 +3,8 @@
   <h1>Trident</h1>
   <p><strong>An open-source Android music player with a calm, glass-inspired interface.</strong></p>
   <p>
-    <a href="https://github.com/primearijit/Tridentmusic/releases/tag/v2.0.5">
-      <img src="https://img.shields.io/badge/Download%202.0.5-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v2.0.5">
+    <a href="https://github.com/primearijit/Tridentmusic/releases/tag/v8.0.0">
+      <img src="https://img.shields.io/badge/Download%202.0.5-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v8.0.0">
     </a>
   </p>
   <p>
@@ -70,9 +70,8 @@ Trident brings music discovery, playback, lyrics, and your library together in o
 
 ## Download
 
-- **Stable:** The current release is outdated and not working. A refreshed Stable release will be published soon after the remaining issues are fixed.
-- **Release 2.0.5:** [Download from GitHub Releases](https://github.com/primearijit/Tridentmusic/releases/tag/v2.0.5). Nightlies are pre-release builds and may be unstable. On a 32-bit-only phone (for example Galaxy A13) that says "app not compatible", download the `arm32` APK from the same release.
-
+- **Stable:** The current release is stable and working.
+- **Release 8.0.0:** [Download from GitHub Releases](https://github.com/primearijit/Tridentmusic/releases/tag/v8.0.0). 
 The project website is being reworked. Use GitHub Releases for downloads for now.
 
 Trident supports Android 8.0 (API 26) and later. Install APKs only from sources you trust. Android may ask you to allow installation from the app you used to download the APK.
