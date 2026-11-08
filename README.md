@@ -4,7 +4,7 @@
   <p><strong>An open-source Android music player with a calm, glass-inspired interface.</strong></p>
   <p>
     <a href="https://github.com/primearijit/Tridentmusic/releases/tag/v8.0.0">
-      <img src="https://img.shields.io/badge/Download%202.0.5-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v8.0.0">
+      <img src="https://img.shields.io/badge/Download%208.0.0-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v8.0.0">
     </a>
   </p>
   <p>
