@@ -3,13 +3,17 @@
   <h1>Trident</h1>
   <p><strong>An open-source Android music player with a calm, glass-inspired interface.</strong></p>
   <p>
-    <a href="https://github.com/primearijit/Tridentmusic/releases/tag/v2.0.9">
-      <img src="https://img.shields.io/badge/Download%202.0.9-9268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v2.0.9">
+    <a href="https://github.com/primearijit/Trident/releases/download/v2.1.1/trident-v8a-2.1.1.apk">
+      <img src="https://img.shields.io/badge/Download%20-66FF00?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v2.1.1" height="55">
+    </a>
+  <p>
+    <a href="https://github.com/primearijit/Trident/releases/download/v2.1.1/">
+      <img src="https://img.shields.io/badge/Version%20Variants-0096FF?style=for-the-badge&logo=github&logoColor=white" alt="Download Trident v2.1.1" height="55">
     </a>
   </p>
   <p>
     <a href="https://github.com/primearijit/Tridentmusic/releases">
-      <img src="https://img.shields.io/github/downloads/primearijit/Tridentmusic/total?style=for-the-badge&label=total%20downloads&logo=github" alt="Total Trident release downloads">
+      <img src="https://img.shields.io/github/downloads/primearijit/Tridentmusic/total?style=for-the-badge&label=total%20downloads&logo=earth" alt="Total Trident release downloads">
     </a>
   </p>
   <p>
@@ -71,7 +75,7 @@ Trident brings music discovery, playback, lyrics, and your library together in o
 ## Download
 
 - **Stable:** The current release is stable and working.
-- **Release 8.0.0:** [Download from GitHub Releases](https://github.com/primearijit/Tridentmusic/releases/tag/v2.0.9). 
+- **Release 8.0.0:** [Download from GitHub Releases](https://github.com/primearijit/Tridentmusic/releases/tag/v2.1.1). 
 The project website is being reworked. Use GitHub Releases for downloads for now.
 
 Trident supports Android 8.0 (API 26) and later. Install APKs only from sources you trust. Android may ask you to allow installation from the app you used to download the APK.
@@ -103,13 +107,13 @@ The Android app uses Jetpack Compose for UI, Media3 for playback, Room for the l
   <h2>🙏 Credits</h2>
 
   <div align="center">
-  <a href="https://github.com/cosmictaserdev-creator/Convx">
-    <img src="https://img.shields.io/badge/⚡%20SPECIAL%20CREDIT%20-%20Powered%20by%20Convx%20-%206C63FF?style=for-the-badge&logo=github&logoColor=white&scale=2" alt="Convx Credit Banner">
+  <a href="https://github.com/kushagrasinghx/BitChord">
+    <img src="https://img.shields.io/badge/⚡%20SPECIAL%20CREDIT%20-%20Powered%20by%20BitChord%20-%206C63FF?style=for-the-badge&logo=github&logoColor=white&scale=2" alt="Core Credit Banner">
   </a>
   <p><i>Special thanks to <a href="https://github.com/cosmictaserdev-creator/Convx">Convx</a> for architectural components and inspiration!</i></p>
 </div>
 
-  <p>Trident music is forked from BeatWave which is developed and maintained by <a href="https://github.com/cosmictaserdev-creator/Convx">cosmictaser</a>. See <a href="https://github.com/cosmictaserdev-creator/">Github</a> for the portfolio.</p>
+  <p>Trident music is forked from BeatWave which is developed and maintained by <a href="https://github.com/kushagrasinghx/BitChord">kushagrasinghx</a>. See <a href="https://github.com/kushagrasinghx/">Github</a> for the portfolio.</p>
 <hr>
 
 
