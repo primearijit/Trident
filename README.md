@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Download%20-66FF00?style=for-the-badge&logo=android&logoColor=white" alt="Download Trident v2.1.1" height="55">
     </a>
   <p>
-    <a href="https://github.com/primearijit/Trident/releases/download/v2.1.1/">
+    <a href="https://github.com/primearijit/Trident/releases/tag/v2.1.1">
       <img src="https://img.shields.io/badge/Version%20Variants-0096FF?style=for-the-badge&logo=github&logoColor=white" alt="Download Trident v2.1.1" height="55">
     </a>
   </p>
